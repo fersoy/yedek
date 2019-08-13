@@ -1,0 +1,11 @@
+
+::placeholder{
+    color: rgb(175, 146, 146);
+    font-size: 12px;
+}
+ #patientsBody{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+ }
