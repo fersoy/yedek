@@ -1,6 +1,6 @@
 {
   "name": "electroscribe",
-  "homepage": "http://fersoy.github.io/yedek",
+  "homepage": "http://fersoy.github.io/yedek/api",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
